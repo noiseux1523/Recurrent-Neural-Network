@@ -1,0 +1,22 @@
+GUILLIMIN CONFIGURATION FOR RNN
+
+module load GCC/4.9.3-2.25
+module load GNU/4.9.3-2.25
+module load GMP/6.0.0a
+module load iomkl/2015b
+module load scikit-learn/0.16.1-Python-3.5.0
+module load foss/2015b
+module load Tensorflow/1.0.0-Python-3.5.2
+pyvenv rnn
+source rnn/bin/activate
+pip install numpy
+pip install nltk
+pip install keras
+pip install pyparsing
+pip install setuptools
+pip install matplotlib
+python
+import nltk
+nltk.download()
+d
+punkt

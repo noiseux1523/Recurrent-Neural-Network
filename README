@@ -1,0 +1,3 @@
+TO FILTER THE LOG FILE
+
+sed -n '/Embedding /p; /LSTM/p; /Batch/p; /Dataset/p' log-python.txt > results-python.txt

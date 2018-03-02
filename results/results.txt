@@ -1,0 +1,19 @@
+Embedding Vector Length = '32';LSTM units = '50';Batch Size = '32';Dataset Results: Acc - 97.85932721712538, F1 - 16.0, Precision - 33.33333333333333, Recall - 10.526315789473683, LogLoss - 0.7393654461598836
+Embedding Vector Length = '32';LSTM units = '50';Batch Size = '64';Dataset Results: Acc - 98.1651376146789, F1 - 25.0, Precision - 60.0, Recall - 15.789473684210526, LogLoss - 0.6337406465884338
+Embedding Vector Length = '32';LSTM units = '100';Batch Size = '32';Dataset Results: Acc - 96.63608562691131, F1 - 23.25581395348837, Precision - 20.833333333333336, Recall - 26.31578947368421, LogLoss - 1.1618703500338705
+Embedding Vector Length = '32';LSTM units = '100';Batch Size = '64';Dataset Results: Acc - 94.80122324159022, F1 - 21.538461538461537, Precision - 15.217391304347828, Recall - 36.84210526315789, LogLoss - 1.7956256681347842
+Embedding Vector Length = '32';LSTM units = '150';Batch Size = '32';Dataset Results: Acc - 96.83995922528032, F1 - 24.390243902439025, Precision - 22.727272727272727, Recall - 26.31578947368421, LogLoss - 1.091453273596886
+Embedding Vector Length = '32';LSTM units = '150';Batch Size = '64';Dataset Results: Acc - 97.04383282364934, F1 - 29.268292682926827, Precision - 27.27272727272727, Recall - 31.57894736842105, LogLoss - 1.0210370122439283
+Embedding Vector Length = '32';LSTM units = '200';Batch Size = '32';Dataset Results: Acc - 96.43221202854231, F1 - 14.634146341463413, Precision - 13.636363636363635, Recall - 15.789473684210526, LogLoss - 1.2322857963028018
+Embedding Vector Length = '32';LSTM units = '200';Batch Size = '64';Dataset Results: Acc - 96.73802242609581, F1 - 15.789473684210526, Precision - 15.789473684210526, Recall - 15.789473684210526, LogLoss - 1.126660181647325
+Embedding Vector Length = '32';LSTM units = '250';Batch Size = '32';Dataset Results: Acc - 97.45158002038737, F1 - 19.35483870967742, Precision - 25.0, Recall - 15.789473684210526, LogLoss - 0.8802004141178794
+Embedding Vector Length = '32';LSTM units = '250';Batch Size = '64';Dataset Results: Acc - 97.14576962283384, F1 - 17.647058823529413, Precision - 20.0, Recall - 15.789473684210526, LogLoss - 0.9858260287733561
+Embedding Vector Length = '64';LSTM units = '50';Batch Size = '32';Dataset Results: Acc - 97.24770642201835, F1 - 30.76923076923077, Precision - 30.0, Recall - 31.57894736842105, LogLoss - 0.9506199358069439
+Embedding Vector Length = '64';LSTM units = '50';Batch Size = '64';Dataset Results: Acc - 97.65545361875637, F1 - 25.80645161290323, Precision - 33.33333333333333, Recall - 21.052631578947366, LogLoss - 0.8097841527649214
+Embedding Vector Length = '64';LSTM units = '100';Batch Size = '32';Dataset Results: Acc - 96.63608562691131, F1 - 15.384615384615385, Precision - 15.0, Recall - 15.789473684210526, LogLoss - 1.1618687198658173
+Embedding Vector Length = '64';LSTM units = '100';Batch Size = '64';Dataset Results: Acc - 97.34964322120285, F1 - 18.749999999999996, Precision - 23.076923076923077, Recall - 15.789473684210526, LogLoss - 0.9154089523363718
+Embedding Vector Length = '64';LSTM units = '150';Batch Size = '32';Dataset Results: Acc - 98.26707441386341, F1 - 19.04761904761905, Precision - 100.0, Recall - 10.526315789473683, LogLoss - 0.5985312932859148
+Embedding Vector Length = '64';LSTM units = '150';Batch Size = '64';Dataset Results: Acc - 96.53414882772681, F1 - 26.08695652173913, Precision - 22.22222222222222, Recall - 31.57894736842105, LogLoss - 1.1970797033363894
+Embedding Vector Length = '64';LSTM units = '200';Batch Size = '32';Dataset Results: Acc - 98.06320081549438, F1 - 0.0, Precision - 0.0, Recall - 0.0, LogLoss - 0.6689467395548458
+Embedding Vector Length = '64';LSTM units = '200';Batch Size = '64';Dataset Results: Acc - 96.94189602446484, F1 - 25.0, Precision - 23.809523809523807, Recall - 26.31578947368421, LogLoss - 1.056244735378394
+Embedding Vector Length = '64';LSTM units = '250';Batch Size = '32';
